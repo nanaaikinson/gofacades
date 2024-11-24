@@ -1,4 +1,4 @@
-package redis_facade
+package gofacades
 
 import (
 	"context"
